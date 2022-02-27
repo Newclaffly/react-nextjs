@@ -5,6 +5,7 @@ import { Navbar } from 'react-bootstrap';
 import { NavDropdown } from 'react-bootstrap';
 export default function NavBar() {
   return (
+    // Navbar test
     <>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
