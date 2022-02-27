@@ -20,5 +20,5 @@ function MyApp({ Component, pageProps }) {
     </>
   );
 }
-
+// Adding
 export default MyApp;
